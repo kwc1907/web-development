@@ -1,0 +1,12 @@
+.side-bar-card{
+    background:rgba(0,0,0,.06);
+    padding: 15px 0;
+    border-radius: 5px;
+}
+.rg_layout{
+	background: url(./img/1.jpg) no-repeat center;
+	height: 100vh;
+	display: flex;
+	background-size: cover;
+
+}

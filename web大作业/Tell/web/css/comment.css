@@ -1,0 +1,35 @@
+.all{
+    background:rgba(0,0,0,.06);
+	margin-left: 40px;
+	width: 1000px;
+	height: 100px;
+}
+.layout{
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 20px;
+	font-size: 1.2em;
+	line-height: 1.5;
+}
+.img{
+	margin-top: 15px;
+	margin-left: 100px;
+	width: 600px;
+	height: 650px;
+}
+.zi{
+	margin-top: 15px;
+	margin-left: 50px;
+}
+.line{
+	padding: 0 20px 0;
+	margin: 20px 0;
+	line-height: 1px;
+	border-left: 200px solid #ddd;
+	border-right: 200px solid #ddd;
+	text-align: center;
+}
+.alre{
+	margin-top: 50px;
+	margin-left: 50px;
+}
